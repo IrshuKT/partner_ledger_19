@@ -23,8 +23,9 @@
         'templates/partner_ledger_template.xml',
         'templates/partner_leger_action.xml',
         'views/partner_ledger.xml',
+        'views/partner_ledger_views.xml',
         'wizard/partner_ledger_wizard.xml',
-        #'wizard/partner_ledger_wizard.xml',
+
     ],
     # only loaded in demonstration mode
     'demo': [
